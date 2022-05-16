@@ -9,7 +9,7 @@ I've been working as a web developer for an year now and this seems FUN!! 😎
 * 🌍  I'm based in Udupi, Karnataka
 * 🖥️  See my portfolio at [github](http://https://b-akanksha.github.io)
 * ✉️  You can contact me at [b.akanksha-6@gmail.com](mailto:b.akanksha-6@gmail.com)
-* 🚀  I'm currently working on [Recommendify2](http://https://b-akanksha.github.io/recommendify2/#)
+* 🚀  I'm currently working on [Sortify](https://github.com/b-akanksha/sortify/#)
 * 🧠  I'm learning ReactJS, React-Redux, Material-UI, CSS
 * 🤝  I'm open to collaborating on any front end React based projects
 * ⚡  I like coding in free time too. 👩‍💻
