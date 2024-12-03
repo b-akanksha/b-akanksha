@@ -4,13 +4,12 @@ Hi 👋 My name is Akanksha C
 Web Developer
 -------------
 
-I've been working as a web developer for an year now and this seems FUN!! 😎
+Hi there! I'm Akanksha, a passionate software engineer with over 2 years of experience in Front-End development and Back-End for Front-End (BFF). My mission is to build intuitive, accessible, and scalable web applications that solve real-world problems.
 
 * 🌍  I'm based in Udupi, Karnataka
 * 🖥️  See my portfolio at [github](http://https://b-akanksha.github.io)
-* ✉️  You can contact me at [b.akanksha-6@gmail.com](mailto:b.akanksha-6@gmail.com)
-* 🚀  I'm currently working on [Sortify](https://github.com/b-akanksha/sortify/#)
-* 🧠  I'm learning ReactJS, React-Redux, Material-UI, CSS
+* ✉️  You can contact me at [akanksha.chandrashekar@gmail.com](mailto:akanksha.chandrashekar@gmail.com)
+* 🚀  I'm currently working on [readiculous](b-akanksha.github.io/readiculous/)
 * 🤝  I'm open to collaborating on any front end React based projects
 * ⚡  I like coding in free time too. 👩‍💻
 
@@ -36,7 +35,7 @@ I've been working as a web developer for an year now and this seems FUN!! 😎
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/b-akanksha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/akanksha-bhat-255b4315a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/b-akanksha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="linkedin.com/in/c-akanksha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
