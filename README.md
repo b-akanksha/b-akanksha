@@ -7,7 +7,7 @@ Web Developer
 Hi there! I'm Akanksha, a passionate software engineer with over 2 years of experience in Front-End development and Back-End for Front-End (BFF). My mission is to build intuitive, accessible, and scalable web applications that solve real-world problems.
 
 * 🌍  I'm based in Udupi, Karnataka
-* 🖥️  See my portfolio at [github](http://https://b-akanksha.github.io)
+* 🖥️  See my portfolio at [github]([http://https://b-akanksha.github.io](https://b-akanksha.github.io/hello-world-2/))
 * ✉️  You can contact me at [akanksha.chandrashekar@gmail.com](mailto:akanksha.chandrashekar@gmail.com)
 * 🚀  I'm currently working on [readiculous](b-akanksha.github.io/readiculous/)
 * 🤝  I'm open to collaborating on any front end React based projects
